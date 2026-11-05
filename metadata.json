@@ -1,0 +1,6 @@
+{
+  "name": "Programa con Marc - CodeMarc",
+  "description": "Aprende a programar desde cero con ejercicios interactivos, red social integrada, logros diarios, notificaciones y sincronización offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
